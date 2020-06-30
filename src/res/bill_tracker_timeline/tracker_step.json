@@ -1,0 +1,21 @@
+{
+    "bill_id": 1282731,
+    "trigger_timeline_id": "1282731_tx-0",
+    "ref_timeline_ids": ["1282731_tx-0"],
+    "action": "move",
+    "order": 0,
+    "date": "2019-01-16",
+    "time": "1200",
+    "previous_tracker_step_id": "",
+    "tracker_step_id": "",
+    "previous_body_id": 79,
+    "body_id": 79,
+    "tracker_path_id": "start__introduced_in_house",
+    "committee_id": 0,
+    "sentiment": 0,
+    "duration": 300,
+    "title": "",
+    "callout_message": "Bill introduced",
+    "summary_text": "Bill was introduced... more info"
+}
+

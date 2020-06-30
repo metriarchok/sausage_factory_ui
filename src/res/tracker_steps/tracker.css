@@ -1,0 +1,87 @@
+.tracker_path_main 
+    { 
+        fill: #ef3a93;
+        fill-opacity: 1; 
+        fill-rule: nonzero; 
+        stroke: none; 
+    }
+.tracker_path_main:hover 
+    { 
+        fill: #f367ab;
+        fill-opacity: 1; 
+        fill-rule: nonzero; 
+        stroke: none; 
+    }
+
+.tracker_path_final 
+    { 
+        fill: #2e2b2d;
+        fill-opacity: 1; 
+        fill-rule: nonzero; 
+        stroke: none; 
+    }
+
+    .tracker_path_final:hover
+    { 
+        fill: #04beed;
+        fill-opacity: 1; 
+        fill-rule: nonzero; 
+        stroke: none; 
+    }
+
+
+.bill_tracker_circle {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  background-color: #b7005a;
+  border-radius: 50%;
+  left: 145px;
+  top: 90px;
+  transform: translateX(-50%);
+  transition: all 0.2s ease-in-out;
+  animation: ripple 2.0s 0.2s 5;
+  -webkit-animation: ripple 2.0s 0.2s  5;
+}
+
+.bill_tracker_circle_move > p {
+    visibility: hidden;
+}
+
+.bill_tracker_circle_move:hover {
+  transform: translateX(-50%) scale(1.2);
+}
+
+.bill_tracker_circle:hover {
+  transform: translateX(-50%) scale(1.2);
+}
+
+.bill_tracker_circle > p {
+    font-size: 8px;
+    padding-top: 18px;
+    padding-left: 10px;
+    font-weight: bold;
+}
+
+@-webkit-keyframes ripple {
+  20% {
+    box-shadow: 0px 0px 0px 6px #fff,
+                0px 0px 0px 8px #222;
+  }
+  
+  50% {
+    box-shadow: 0px 0px 0px 6px #fff,
+                0px 0px 0px 8px #222,
+                0px 0px 0px 14px #fff,
+                0px 0px 2px 16px #888;
+  }
+  
+  100% {
+    box-shadow: 0px 0px 0px 6px #fff,
+                0px 0px 0px 8px #222,
+                0px 0px 0px 14px #fff,
+                0px 0px 2px 16px #888, 
+                0px 0px 0px 22px #fff,
+                0px 0px 5px 24px #ddd;
+  }
+}

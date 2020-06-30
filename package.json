@@ -6,9 +6,18 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "array-move": "^2.2.2",
+    "final-form-material-ui": "^0.3.0",
+    "ra-input-rich-text": "^3.5.5",
     "react": "^16.13.1",
+    "react-admin": "^3.6.2",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "3.4.1",
+    "react-sortable-hoc": "^1.11.0",
+    "react-svg-tooltip": "^0.0.11",
+    "redux-form": "^8.3.6",
+    "sort-by": "1.2.0"
   },
   "scripts": {
     "start": "react-scripts start",

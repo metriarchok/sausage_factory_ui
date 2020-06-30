@@ -1,0 +1,12 @@
+{
+  "default": {
+    "apiKey": "AIzaSyDoZZDOePV3LRY2Ip3aa9xrVg7y6b0Wq0A",
+    "authDomain": "brimersmind.firebaseapp.com",
+    "databaseURL": "https://brimersmind.firebaseio.com",
+    "projectId": "brimersmind",
+    "storageBucket": "brimersmind.appspot.com",
+    "messagingSenderId": "919965680978",
+    "appId": "1:919965680978:web:1635ef4eb856773d79268b",
+    "measurementId": "G-8H5NWL5000"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brimersmind",
+  "private_key_id": "49b95006d24797ec68d20f571e3180a817a51e92",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDE83Q83iwgGJGT\nMuhmu+xHLh588cVu4XCG4Z0l0DOsYqzGsndhhc2Lvzwecn5+LUJaZWbkutDqXybi\nuIb3rPBpbG8Qe818L1h30uYPoFrttB6ykvxL6IYNoZHxeRy6Q0s6zC87OpeBMz/2\nLJuc82P4culV6rxiW6bM9a8VmAPKz0wl0fsePziBnjnEwqKFYSMF/Fdl0fg26znW\nMqVCLKiPlMjuzfyS8gOCA7t8RwC8bb0peHqNu2soFQU2ppWX8co9COSvHZFERVkY\ngaGDCjgdmXt9wsCuFgwN8NlFtb3lUdcf3FuK3OXwmxRjtHw6SUmKAG6sixn7ppy1\nQwBJ5TcXAgMBAAECggEAK3vK5qNw35c9EOBVAlWsWZzbm19v5Ua95vHKFe6tcfqJ\nRgdiJzR5CMksl1ZVCjuo4jdwK8D5Xj2q4rS2C9nxbH1F2kBTQn9bi30TUVDosoGp\no2ijbokEi97nz4Ybax5vbihlpzCNAbgUf6AirVjpchHA5bjBZf/xSGBYCy74a17M\neM5k2THPyebU62jv9cVRycS42B6lYNTRIc+oXxChTPKqkBJtOKAbeK+TiPyN75ft\nZGemZyfJt2XqF9jKpEN5yYuaL07QMfAcMr5oXclUTVcYb/XD0FliKIuwY7+02PLr\nsWGGxlYyhzMAvKm9l80eNNgkqmP0XB02ZLkHBmv53QKBgQD+OffaggRtycPRxKNU\noDrAIu5RAmv+o6Jy9r5EGKNYytw/ThxCsYqYbKiMYSOLfm5pOQLzEWoEs2vx4Cpg\nQKxSlOEiMgQl43ZD71hw9iScqHlxLMKU9pR6Nc/G9U1Pz9UpxHYo/o9O+5H26v0u\nintGEe/7njhP/WICmYUJK2mjKwKBgQDGUzIXWMQIMgjen6g11Gz6VQvxsOQjrL18\nPn40VauFr0K0xDG3a5otEQDFobkQ8QClbvM4KAlyklrUw5rjHVOjW091FghGhT2x\nbCs/tZX/sNR2XOLpXAhyjng5ss1s4MtaS3ac/OXe1ZY7EWbXweQ3pP8p7saXEsWt\nOeQq6hh1xQKBgECYYg23M4Dh30uRdx6th8ACICOdRetxkHk9kKKkz/xjrwq2wh+A\nFQMduMXSeMGc4lkCD2nLZvDC1g6jMqE6TY6+HWYe50bpQMeKLSKmqC7V7+V9xgMr\nlBZpTd3zvi0lVbhDHvLTm34qFbBzjNkifqgTLrL0RMKuUxTuBQuLaE/5AoGADVq6\ny8GpaZfc6wi7LezA7dZeOIcdxZ0zITOgEewW4aiciEmRw3UWa6Ryddxe9toTnhAr\nhoODp1hdj2ggfNyTrjNO1WaHZiBAuDq9asvSbuY8WEAG84nD89rOE6yLkqJMbycX\ntJh+7hNZy15vm2Wt9WVB3VP7wV59Ox3j1FPxE7UCgYAX+P89hZvuagPIcyqEz0Gt\njTOyCN7iTQ0mQsFl/MI+Fsl1SaM1OfRxoWD4hyFxQsLLq/nuVbplkdC6LnvrMfne\nIJDurOa5AxrGKrzSP3xT3vfRCgiIGF+n22lTi/8Hyye0lMU5WfT+aKs9cMgx0hX8\nlbX1XSpmSmMQpNuNRUugaQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "brimersmind@appspot.gserviceaccount.com",
+  "client_id": "108265463966843051360",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brimersmind%40appspot.gserviceaccount.com"
+}
